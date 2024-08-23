@@ -15,6 +15,6 @@ DevLinks é um projeto que centraliza e organiza links importantes para desenvol
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd devlinks
+   cd DevLinks
 
 3. Abra o arquivo index.html em seu navegador preferido.
