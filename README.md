@@ -11,3 +11,10 @@ DevLinks é um projeto que centraliza e organiza links importantes para desenvol
 1. Clone o repositório:
    ```bash
    git clone https://github.com/jainesenna/DevLinks.git
+   
+2. Navegue até o diretório do projeto:
+
+   ```bash
+   cd devlinks
+
+3. Abra o arquivo index.html em seu navegador preferido.
