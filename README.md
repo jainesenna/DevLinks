@@ -5,6 +5,7 @@ DevLinks é um projeto que centraliza e organiza links importantes para desenvol
 
 - **HTML5**
 - **CSS3**
+- **JavaScript**
 
 ## Como Utilizar
 
