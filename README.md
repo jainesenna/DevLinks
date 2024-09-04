@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 ## 💻 Projeto
-DevLinks é um projeto que centraliza e organiza links importantes para desenvolvedores, incluindo portfólio, GitHub e redes sociais. Este projeto visa facilitar a divulgação e o compartilhamento de informações em uma única página.
+DevLinks é um projeto que centraliza e organiza links importantes para desenvolvedores, incluindo portfólio, GitHub e redes sociais. Este projeto visa facilitar a divulgação e o compartilhamento de informações em uma única página. Acesse o meu projeto através [DESSE LINK](https://jainedevlinks.netlify.app/).
 
 ## 🚀 Como executar
 - Clone o repositório
